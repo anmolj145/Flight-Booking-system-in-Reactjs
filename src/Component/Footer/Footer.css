@@ -1,0 +1,15 @@
+.App-footer {
+  background-color:#a6a6a6;
+  height: 40px;
+  width: 100%;
+  position:fixed;
+  bottom: 0;
+  color: white;
+}
+
+.ft{
+  margin-top:5px;
+  padding:0px;
+  text-align: center;
+  font-size: 20px;
+}

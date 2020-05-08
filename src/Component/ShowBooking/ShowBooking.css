@@ -1,0 +1,17 @@
+.sb{
+    margin-top: 70px;
+    margin-bottom: 60px;
+}
+
+.tic{
+    padding:5px;
+    margin-top: 10px;
+    margin-left: 20px;
+    border :1px solid black;
+    width: 50%;
+    border-radius: 5px;
+} 
+
+.showt{
+   margin-left: 10px;
+}

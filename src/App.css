@@ -1,0 +1,22 @@
+.App-footer {
+  background-color:#a6a6a6;
+  height: 40px;
+  width: 100%;
+  position:fixed;
+  bottom: 0;
+  align-items:center;
+  justify-content: center;
+  color: white;
+}
+
+.bt {
+  margin-bottom: 15px;
+}
+
+.la{
+  float: left;
+}
+
+.p{
+  align-self: center;
+}
